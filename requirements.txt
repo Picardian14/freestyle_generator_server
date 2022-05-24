@@ -6,7 +6,7 @@ requests==2.22.0
 Flask-RESTful==0.3.8
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.2.0
+tensorflow==2.6.4
 tensorflow-estimator==2.2.0
 markovify==0.8.0
 Keras==2.3.1
