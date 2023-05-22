@@ -2,7 +2,7 @@ Flask==1.0.2
 PyMySQL==0.9.3
 Flask-Session==0.3
 Flask-Login==0.4.1
-requests==2.22.0
+requests==2.31.0
 Flask-RESTful==0.3.8
 tensorboard==2.2.1
 tensorboard-plugin-wit==1.6.0.post3
